@@ -43,7 +43,7 @@ The application is based on a Jupyter Notebook. The minimum required is a Jupyte
 
 Two Comma Separated Values (.CSV) files are required (one from each exchange) that at a minimum have the timestamp and the closing price of the cryptocurrency. In the example below the two columns of interest are **Timestamp** and **Close**. The files need to cover the same cryptocurrency and cover the same time period and time granularity so that index matching can occur. 
 
-![screenshot of csv](docs/images/csv.PNG)
+![screenshot of csv](docs/images/csv.png)
 
 ### Output Example
 
@@ -69,4 +69,4 @@ Analyzing this dataset from January 1st - March 31st 2018 identified several arb
 
 ## License
 
-None
+MIT
